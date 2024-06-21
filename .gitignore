@@ -1,0 +1,10 @@
+YOLOV8/dataset
+YOLOV8_3cls_seg/dataset
+YOLOV8/runs/segment/train2*
+!YOLOV8/runs/segment/train2/weights
+YOLOV8_3cls_seg/runs/segment/train*
+!YOLOV8_3cls_seg/runs/segment/train/weights
+YOLOV8_3cls_seg/videos_segmentados_yolo
+YOLOV8_3cls_seg/dataset.dvc
+YOLOV8_3cls_seg/Untitled.ipynb
+YOLOV8_3cls_seg/dataset.yaml
